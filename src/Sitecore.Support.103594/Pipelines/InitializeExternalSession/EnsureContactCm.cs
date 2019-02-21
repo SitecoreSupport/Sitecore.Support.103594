@@ -6,7 +6,7 @@ using Sitecore.Analytics.Tracking;
 using Sitecore.Diagnostics;
 using System;
 
-namespace Sitecore.Support.Pipelines.InitializeExternalSession
+namespace Sitecore.Support.Analytics.Pipelines.InitializeExternalSession
 {
   public class EnsureContactCm: Sitecore.Analytics.Pipelines.InitializeExternalSession.EnsureContactCm
   {
